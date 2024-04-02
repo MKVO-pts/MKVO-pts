@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Estudoteca](https://github.com/MKVO-pts/Estudoteca)
 
-- 🌱 I’m currently learning **Java Script and C++**
+- 🌱 I’m currently learning **Bioinformatics and Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
