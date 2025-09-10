@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkvo-pts&label=Profile%20views&color=0e75b6&style=flat" alt="mkvo-pts" /> </p>
 
-- 🔭 I’m currently working on [Estudoteca](https://github.com/MKVO-pts/Estudoteca)
-
-- 🌱 I’m currently learning **Bioinformatics and Rust**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
